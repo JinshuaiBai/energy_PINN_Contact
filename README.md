@@ -23,6 +23,7 @@ Please run the file "main.py" in each case. All the input data is prepared in "C
 
 # Paper link
 https://doi.org/10.1016/j.cma.2025.117787
+https://arxiv.org/abs/2411.03671
 
 # Enviornmental settings
  - Python 3.10
